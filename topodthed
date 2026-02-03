@@ -1,0 +1,17 @@
+Create a new page called hockey.html for this website.
+
+Requirements:
+- Use the same HTML structure, typography, and styles as index.html.
+- Keep the same header and navigation.
+- Update the <title> to "About — Brand Name".
+- Replace the main content with an editorial-style About section.
+- Tone: elegant, minimal, fashion/editorial.
+- Content should include:
+  - A short brand or personal introduction
+  - Vision / values
+  - A concise closing paragraph
+
+Also:
+- Update the navigation in ALL pages so that Home links to index.html and About links to about.html.
+- Do not break existing styles.
+- Commit the changes in a single pull request.
